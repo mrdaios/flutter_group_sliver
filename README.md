@@ -3,6 +3,7 @@
 Add a grouping background by customizing the RenderSliver.
 
 [![Pub](https://img.shields.io/pub/v/flutter_group_sliver.svg)](https://pub.dartlang.org/packages/flutter_group_sliver)
+![Screenshot](https://raw.githubusercontent.com/mrdaios/flutter_group_sliver/master/doc/images/flutter_group_sliver.png)
 
 ## Features
 
@@ -15,7 +16,7 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 ```yaml
 dependencies:
   ...
-  flutter_group_sliver: "^0.0.1"
+  flutter_group_sliver: "^0.0.2"
 ```
 
 In your library add the following import:
