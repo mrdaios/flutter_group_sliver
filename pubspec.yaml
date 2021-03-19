@@ -5,7 +5,7 @@ author: mrdaios <mrdaios@gmail.com>
 homepage: https://github.com/mrdaios/flutter_group_sliver
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
